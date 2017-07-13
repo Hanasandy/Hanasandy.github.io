@@ -173,8 +173,6 @@ section h2 {
     /*padding: 2%;*/
 }
 
-
-
 @media(min-width:768px) {
     #introduction .container {
         padding-top: 100px;
@@ -431,6 +429,7 @@ label{
 
 }
 
+/* Portfolio Styles
 /*-------------------------------*/
 .img-responsive h3{
     color:black;
@@ -456,6 +455,9 @@ img.project-github {
   width: 30px;
 }
 
+.portfolio-item h3 {
+  text-align: center;
+}
 
 @media screen and (max-width: 840px) {
 
